@@ -55,12 +55,12 @@ namespace AHD.ID3.Viewer
         }
         private void linkLabel1_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor"); }
             catch { }
         }
         private void linkLabel2_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor/wiki"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor/wiki"); }
             catch { }
         }
 

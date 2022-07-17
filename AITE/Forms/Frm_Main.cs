@@ -2332,7 +2332,7 @@ namespace AHD.ID3.Editor
             }
             else
             {
-                try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor/wiki"); }
+                try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor/wiki"); }
                 catch { }
             }
         }
@@ -2958,12 +2958,12 @@ namespace AHD.ID3.Editor
         }
         private void websiteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor"); }
             catch { }
         }
         private void wikiOnlineHelpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor/wiki"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor/wiki"); }
             catch { }
         }
     }

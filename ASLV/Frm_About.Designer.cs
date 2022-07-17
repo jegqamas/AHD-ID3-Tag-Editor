@@ -154,7 +154,7 @@ namespace AHD.ID3.Viewer
             this.linkLabel2.Size = new System.Drawing.Size(386, 20);
             this.linkLabel2.TabIndex = 7;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "https://github.com/alaahadid/AHD-ID3-Tag-Editor/wiki";
+            this.linkLabel2.Text = "https://github.com/jegqamas/AHD-ID3-Tag-Editor/wiki";
             this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked_1);
             // 
             // label3
@@ -176,7 +176,7 @@ namespace AHD.ID3.Viewer
             this.linkLabel1.Size = new System.Drawing.Size(357, 20);
             this.linkLabel1.TabIndex = 5;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "https://github.com/alaahadid/AHD-ID3-Tag-Editor";
+            this.linkLabel1.Text = "https://github.com/jegqamas/AHD-ID3-Tag-Editor";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked_1);
             // 
             // richTextBox4

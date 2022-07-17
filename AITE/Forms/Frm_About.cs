@@ -34,13 +34,13 @@ namespace AHD.ID3.Editor
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor"); }
             catch { }
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            try { Process.Start("https://github.com/alaahadid/AHD-ID3-Tag-Editor/wiki"); }
+            try { Process.Start("https://github.com/jegqamas/AHD-ID3-Tag-Editor/wiki"); }
             catch { }
         }
 
